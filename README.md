@@ -1,6 +1,6 @@
 # Test task Cyrebro
 
-You can check task on [link](http://IvanDanylevych.github.io/test-cyber).
+You can check task on [link](https://ivandanylevych.github.io/test-cyber/).
 
 ## Available Scripts
 
